@@ -1,0 +1,81 @@
+/* Styles go here */
+
+body{
+background-color: #fff;
+}
+
+#container{
+margin: 0 auto;
+width: 800px;
+padding: 0;
+font-size: 95%;
+font-family: Herculanum, times;
+color: #000;
+background-image: url("http://cdn.shopify.com/s/files/1/0077/1592/products/Marble_Paper_not_sticker_1.jpg?v=1411632518");
+background-repeat: no-repeat;
+background-size: cover;  
+}
+
+#header{
+border-bottom: 1px solid #000;
+color: #000;
+}
+
+#header h1{
+margin: 0;
+padding: .3em 0 .3em .5em;
+font-size: 2.2em;
+font-weight: normal;
+}
+
+#stretch{ 
+border: 15px solid transparent;
+padding: 15px 20px;
+}
+
+#container2{
+background: #FAFAFA;
+font-size: 100%;
+position: absolute;
+top: 90px;
+height: 553px;
+width: 310px;
+color: #000;
+margin-right: auto;
+margin-left: 400px;
+padding: .3em 0 .3em .5em;
+}
+
+#info_favo{
+font-size: 80%;
+background: #FAFAFA;
+width: 308px;
+margin-left: 30px;
+margin-bottom: 20px;
+padding: .3em 0 .3em .5em;
+}
+
+#cleardiv{
+clear: both;
+height: 1em;
+}
+
+#age {
+  margin-left: 50px;
+}
+
+#footer{
+border-top: 1px solid #000;
+text-align: right;
+padding: 10px;
+}
+
+#footer ul{
+padding: 0;
+margin: 0;
+}
+
+#footer li{
+display: inline;
+margin-right: 1em;
+}
