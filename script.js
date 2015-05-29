@@ -1,5 +1,5 @@
 
-document.onload = function(e){ 
+document.body.onload = function(e){ 
   var ageSelect = document.getElementById('age');
   var sendButton = document.getElementById('send');
 
